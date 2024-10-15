@@ -1,0 +1,7 @@
+.text-success:hover{
+    background-color:blue !important;
+    color: white !important;
+}
+input:focus{
+border: transparent !important;
+}
